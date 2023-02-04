@@ -1,1 +1,1 @@
-db.abi.drop()
+db.collection("abi").drop()
